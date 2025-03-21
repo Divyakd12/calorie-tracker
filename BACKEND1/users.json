@@ -1,0 +1,203 @@
+[
+  {
+    "email": "saravana@gmail.com",
+    "password": "55555"
+  },
+  {
+    "email": "ss@gmail.com",
+    "password": "123456",
+    "bmi": "23.03",
+    "bmiStatus": "Maintain weight",
+    "meals": [
+      {
+        "date": "2025-03-08",
+        "totalCalories": 234
+      }
+    ]
+  },
+  {
+    "email": "123@gmail.com",
+    "password": "123"
+  },
+  {
+    "email": "1223@gmail.com",
+    "password": "123",
+    "meals": [
+      {
+        "date": "2025-03-19",
+        "totalCalories": 27.939999999999998
+      }
+    ]
+  },
+  {
+    "email": "111@gmail.com",
+    "password": "123",
+    "bmi": "13.84",
+    "bmiStatus": "Gain weight",
+    "meals": [
+      {
+        "date": "2025-03-19",
+        "totalCalories": 0.89
+      },
+      {
+        "date": "2025-03-18",
+        "totalCalories": 0
+      },
+      {
+        "date": "2025-03-17",
+        "totalCalories": 2.8200000000000003
+      },
+      {
+        "date": "2025-03-16",
+        "totalCalories": 1272
+      }
+    ]
+  },
+  {
+    "email": "22@gmail.com",
+    "password": "222",
+    "meals": [
+      {
+        "date": "2025-03-08",
+        "totalCalories": 46.8
+      },
+      {
+        "date": "2025-03-09",
+        "totalCalories": 251.45999999999998
+      },
+      {
+        "date": "2025-03-10",
+        "totalCalories": 779.5799999999999
+      }
+    ],
+    "bmi": "24.44",
+    "bmiStatus": "Maintain weight"
+  },
+  {
+    "email": "1222@gmail.com",
+    "password": "1222",
+    "bmi": "19.39",
+    "bmiStatus": "Maintain weight"
+  },
+  {
+    "email": "mailtoaarthi3@gmail.com",
+    "password": "aarthi3",
+    "bmi": "22.58",
+    "bmiStatus": "Maintain weight",
+    "meals": [
+      {
+        "date": "2025-03-12",
+        "totalCalories": 1172.5
+      },
+      {
+        "date": "2025-03-13",
+        "totalCalories": 406
+      },
+      {
+        "date": "2025-03-14",
+        "totalCalories": 835
+      },
+      {
+        "date": "2025-03-15",
+        "totalCalories": 1200
+      },
+      {
+        "date": "2025-03-16",
+        "totalCalories": 848
+      },
+      {
+        "date": "2025-03-17",
+        "totalCalories": 937
+      },
+      {
+        "date": "2025-03-18",
+        "totalCalories": 1251.5
+      },
+      {
+        "date": "2025-03-19",
+        "totalCalories": 1191.5
+      },
+      {
+        "date": "2025-03-11",
+        "totalCalories": 858
+      },
+      {
+        "date": "2025-03-20",
+        "totalCalories": 1151
+      },
+      {
+        "date": "2025-03-10",
+        "totalCalories": 821.5
+      }
+    ]
+  },
+  
+  {
+    "email": "ka22n035@sacas.ac.in",
+    "password": "sacas",
+    "bmi": "22.58",
+    "bmiStatus": "Maintain weight",
+    "meals": [
+      {
+        "date": "2025-03-09",
+        "totalCalories": 911.4
+      },
+      {
+        "date": "2025-03-10",
+        "totalCalories": 1057
+      },
+      {
+        "date": "2025-03-11",
+        "totalCalories": 924
+      },
+      {
+        "date": "2025-03-12",
+        "totalCalories": 1054.5
+      },
+      {
+        "date": "2025-03-13",
+        "totalCalories": 922
+      },
+      {
+        "date": "2025-03-14",
+        "totalCalories": 1298
+      },
+      {
+        "date": "2025-03-15",
+        "totalCalories": 1005
+      },
+      {
+        "date": "2025-03-16",
+        "totalCalories": 922
+      },
+      {
+        "date": "2025-03-17",
+        "totalCalories": 902
+      },
+      {
+        "date": "2025-03-18",
+        "totalCalories": 1166
+      },
+      {
+        "date": "2025-03-19",
+        "totalCalories": 958
+      }
+    ]
+  },
+  {
+    "email": "gnanasoundari@gmail.com",
+    "password": "soundari",
+    "bmi": "15.82",
+    "bmiStatus": "Gain weight",
+    "meals": [
+      {
+        "date": "2025-03-20",
+        "totalCalories": 1024.5
+      },
+      {
+        "date": "2025-03-21",
+        "totalCalories": 1224
+      }
+    ]
+  }
+]
